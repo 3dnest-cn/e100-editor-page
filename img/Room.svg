@@ -1,6 +1,7 @@
-<svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g id="Group 223">
-<rect id="Rectangle 123" x="0.5" y="0.5" width="35" height="35" fill="white" stroke="#BBBBBB"/>
-<rect id="Rectangle 124" x="3.5" y="3.5" width="29" height="29" fill="white" stroke="#BBBBBB"/>
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 505">
+<g id="Group 483">
+<path id="Rectangle 558 (Stroke)" d="M12 11.5H11.5V12V52V52.5H12H52H52.5V52V12V11.5H52H12ZM6.5 6.5H57.5V57.5H6.5V6.5Z" fill="#A6A6A6" stroke="#424242"/>
+</g>
 </g>
 </svg>

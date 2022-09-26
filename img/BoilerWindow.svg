@@ -1,6 +1,8 @@
-<svg width="51" height="14" viewBox="0 0 51 14" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g id="Group 231">
-<path id="Vector 63" d="M1 1V13.5H5V5.5H46V13.5H50V1H1Z" fill="white" stroke="#BBBBBB"/>
-<path id="Vector 65" d="M3 13.5V3.5H48V13.5" stroke="#BBBBBB"/>
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 508">
+<g id="Group 487">
+<path id="Vector 144 (Stroke)" fill-rule="evenodd" clip-rule="evenodd" d="M3 17H61V47H54.1186V23.7742H9.88136V47H3V17Z" fill="white" stroke="#424242" stroke-linecap="square"/>
+<path id="Vector 146" d="M6.5 46.5V20.5H57.5V46.5" stroke="#424242" stroke-opacity="0.5" stroke-linecap="square"/>
+</g>
 </g>
 </svg>
