@@ -1,0 +1,30 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Mask group">
+<mask id="mask0_687_3639" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="64" height="64">
+<rect id="Rectangle 578" width="64" height="64" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask0_687_3639)">
+<g id="Group 511">
+<g id="Ellipse 127">
+<mask id="path-2-inside-1_687_3639" fill="white">
+<path d="M32 22C32 25.4144 31.3275 28.7953 30.0209 31.9498C28.7142 35.1042 26.7991 37.9705 24.3848 40.3848C21.9705 42.7991 19.1042 44.7142 15.9498 46.0209C12.7953 47.3275 9.41437 48 6 48L6 22L32 22Z"/>
+</mask>
+<path d="M32 22C32 25.4144 31.3275 28.7953 30.0209 31.9498C28.7142 35.1042 26.7991 37.9705 24.3848 40.3848C21.9705 42.7991 19.1042 44.7142 15.9498 46.0209C12.7953 47.3275 9.41437 48 6 48L6 22L32 22Z" fill="white" fill-opacity="0.4" stroke="#424242" stroke-opacity="0.5" stroke-width="2" mask="url(#path-2-inside-1_687_3639)"/>
+</g>
+<g id="Ellipse 128">
+<mask id="path-3-inside-2_687_3639" fill="white">
+<path d="M32 22C32 25.4144 32.6725 28.7953 33.9791 31.9498C35.2858 35.1042 37.2009 37.9705 39.6152 40.3848C42.0295 42.7991 44.8958 44.7142 48.0502 46.0209C51.2047 47.3275 54.5856 48 58 48L58 22L32 22Z"/>
+</mask>
+<path d="M32 22C32 25.4144 32.6725 28.7953 33.9791 31.9498C35.2858 35.1042 37.2009 37.9705 39.6152 40.3848C42.0295 42.7991 44.8958 44.7142 48.0502 46.0209C51.2047 47.3275 54.5856 48 58 48L58 22L32 22Z" fill="white" fill-opacity="0.4" stroke="#424242" stroke-opacity="0.5" stroke-width="2" mask="url(#path-3-inside-2_687_3639)"/>
+</g>
+<rect id="Rectangle 539" x="6.5" y="22.5" width="3" height="25" fill="white" stroke="#424242"/>
+<rect id="Rectangle 540" x="54.5" y="22.5" width="3" height="25" fill="white" stroke="#424242"/>
+<rect id="Rectangle 538" x="2.5" y="17.5" width="59" height="5" fill="white" stroke="#424242"/>
+<line id="Line 56" x1="6.5" y1="18" x2="6.5" y2="22" stroke="#424242"/>
+<line id="Line 57" x1="57.5" y1="18" x2="57.5" y2="22" stroke="#424242"/>
+<rect id="Rectangle 541" x="2" y="18" width="4" height="4" fill="#F7F7F8"/>
+<rect id="Rectangle 542" x="58" y="18" width="4" height="4" fill="#F7F7F8"/>
+</g>
+</g>
+</g>
+</svg>

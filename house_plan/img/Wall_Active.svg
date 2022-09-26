@@ -1,0 +1,11 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 492">
+<path id="Vector 153 (Stroke)" d="M52.5 12V11.5H52H6.5V6.5H57.5V57.5H6.5V52.5H52H52.5V52V12Z" fill="#A6A6A6" stroke="#409EFF"/>
+<line id="Line 54" x1="6.5" y1="7" x2="6.5" y2="11" stroke="white"/>
+<line id="Line 55" x1="6.5" y1="53" x2="6.5" y2="57" stroke="white"/>
+<line id="Line 56" x1="10.5" y1="53" x2="10.5" y2="57" stroke="#409EFF"/>
+<line id="Line 57" x1="10.5" y1="7" x2="10.5" y2="11" stroke="#409EFF"/>
+<rect id="Rectangle 533" x="6" y="53" width="4" height="4" fill="#F7F7F8"/>
+<rect id="Rectangle 534" x="6" y="7" width="4" height="4" fill="#F7F7F8"/>
+</g>
+</svg>
